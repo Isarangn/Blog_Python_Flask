@@ -1,0 +1,16 @@
+pip install Flask-SQLAlchemy
+Flask-SQLAlchemy 2.4.3
+pip install Flask-SQLAlchemy   done
+pip install MySQL-python
+pip install SQLAlchemy
+pip install Flask-MySQLdb
+install mysqlclient from official binary
+pip install flask-mail
+from flask_sqlalchemy import SQLAlchemy
+
+support.google.com/mail/answer/78754
+
+'mysql://root:@localhost/selfpost'
+
+selfpost(database)
+contacts, posts (table)

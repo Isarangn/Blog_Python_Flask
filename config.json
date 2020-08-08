@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/selfpost",
+    "prod_uri": "mysql://root:@localhost/selfpost",
+    "tw_url": "https://twitter.com/selfpost",
+    "fb_url": "https://facebook.com/selfpost",
+    "gh_url": "https://github.com/selfpost",
+    "blog_name": "Self Blog",
+    "tag_line": "A Blog For Logical Thinking",
+    "gmail-user": "gmailID",
+    "gmail-password": "gmailPassword",
+    "about_text": "Hi my name is Sarang and I have created this blog.",
+    "no_of_posts": 5,
+    "login_image": "login.svg",
+    "admin_user": "sarang",
+    "admin_password": "subscribenow"
+  }
+
+}
