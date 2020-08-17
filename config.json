@@ -15,7 +15,8 @@
     "no_of_posts": 5,
     "login_image": "login.svg",
     "admin_user": "sarang",
-    "admin_password": "subscribenow"
+    "admin_password": "subscribenow",
+    "upload_location": "F:\\Flask\\static"
   }
 
 }
